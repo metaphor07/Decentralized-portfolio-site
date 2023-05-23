@@ -25,7 +25,6 @@ const Wallet = ({ saveState }) => {
       alert("*Please Install Metamask!");
     }
   };
-  console.log(CONTRACT_URL);
   return (
     <>
       <div className="header">
